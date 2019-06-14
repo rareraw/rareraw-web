@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/rareraw/rareraw-web#readme",
   "dependencies": {
-    "express": "^4.17.0"
+    "dotenv": "^8.0.0",
+    "express": "^4.17.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.7"
   },
   "devDependencies": {
     "concurrently": "^4.1.0",
